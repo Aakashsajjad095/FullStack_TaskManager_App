@@ -1,0 +1,63 @@
+# Logs
+*.log
+
+# Environment files (for sensitive data like API keys)
+.env
+
+# IDE settings (e.g., VS Code settings, JetBrains IDEs)
+.vscode/
+.idea/
+
+# Operating system files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Build directories and distribution files
+/build
+/dist
+
+# Package manager lock files (optional, can be included if you need them)
+# npm
+package-lock.json
+# yarn
+yarn.lock
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
