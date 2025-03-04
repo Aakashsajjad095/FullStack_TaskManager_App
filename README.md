@@ -11,7 +11,7 @@ A full-stack Task Manager app built using **React Native** with **Expo** for the
     <img src="https://github.com/user-attachments/assets/5aaa7d4b-5d40-4000-93bd-6c199323332f" alt="Screenshot 2" width="200" style="margin: 30px;" />
 </div>
 
-#  Task Manager Web App Screenshots 📱
+#  Task Manager Web App Screenshots 🖥️
 
 <img width="1512" alt="Screenshot 2025-03-05 at 12 35 47 AM" src="https://github.com/user-attachments/assets/fa5165a1-7788-4fb3-b583-7e75d05724b0" />
 <img width="1512" alt="Screenshot 2025-03-05 at 12 36 44 AM" src="https://github.com/user-attachments/assets/98db3500-f41c-4ebd-ba57-3c6a40e15143" />
